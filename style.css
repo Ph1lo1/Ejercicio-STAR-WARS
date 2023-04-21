@@ -1,3 +1,27 @@
+@font-face {
+    font-family: "Star Wars";
+    src: url("Starjedi.ttf");
+}
+
+h1{
+    font-family: "Star Wars";
+}
+
+h2{
+    font-family: "Star Wars";
+}
+
+h3{
+    font-family: "Star Wars";
+}
+
+p{
+    font-family: "Star Wars";
+}
+
+li{
+    font-family: "Star Wars";   
+}
 body{
     display: flex;
     align-items: center;
