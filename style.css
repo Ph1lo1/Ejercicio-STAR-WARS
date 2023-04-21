@@ -1,0 +1,72 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+body{
+    background-image: url(https://images.alphacoders.com/107/107763.jpg);
+    height: 600px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    margin-bottom: 50 px;
+}
+
+.Imperio{
+    background-color: rgba(255, 0, 0, 0.5);
+    padding: 1cm;
+}
+
+.Rebeldes{
+    background-color: rgba(0, 0, 255, 0.5);
+    padding: 1cm;
+}
+
+#DarthVader{
+    font-size: 30px;
+}
+
+#Luke{
+    font-style: italic;
+}
+
+.Soldados{
+    border: 1px dashed black;
+    letter-spacing: 2px;
+}
+
+.Apoyo{
+    text-align: center;
+}
+
+.Droides{
+    text-align: center;
+}
+
+img {
+    border: solid 10px rgba(128, 128, 128, 0.25);
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+h3{
+    color: rgb(255, 230, 0);
+}
+
+h1{
+    color:rgb(255, 230, 0);
+}
+h2{
+    font-size: 30px;
+}
+
+li{
+    font-size: 30px;
+}
+
+hr{
+    color: black;
+}
