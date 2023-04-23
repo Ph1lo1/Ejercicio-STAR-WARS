@@ -3,25 +3,12 @@
     src: url("Starjedi.ttf");
 }
 
-h1{
+*{
     font-family: "Star Wars";
+    color: white;
+    letter-spacing: 2px;
 }
 
-h2{
-    font-family: "Star Wars";
-}
-
-h3{
-    font-family: "Star Wars";
-}
-
-p{
-    font-family: "Star Wars";
-}
-
-li{
-    font-family: "Star Wars";   
-}
 body{
     display: flex;
     align-items: center;
@@ -41,12 +28,12 @@ body{
 }
 
 .Imperio{
-    background-color: rgba(255, 0, 0, 0.5);
+    background-color: rgba(255, 0, 0, 0.1);
     padding: 1cm;
 }
 
 .Rebeldes{
-    background-color: rgba(0, 0, 255, 0.5);
+    background-color: rgba(0, 0, 255, 0.1);
     padding: 1cm;
 }
 
@@ -76,21 +63,10 @@ img {
     background-color: rgba(128, 128, 128, 0.5);
 }
 
-h3{
+.amarillo{
     color: rgb(255, 230, 0);
 }
 
-h1{
-    color:rgb(255, 230, 0);
-}
-h2{
+.fuenteGrande{
     font-size: 30px;
-}
-
-li{
-    font-size: 30px;
-}
-
-hr{
-    color: black;
 }
